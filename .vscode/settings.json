@@ -1,0 +1,18 @@
+{
+  "html.format.endWithNewline": true,
+  "html.format.indentInnerHtml": true,
+  "html.format.indentHandlebars": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "html.format.extraLiners": "head, body, /html",
+  "prettier.jsxSingleQuote": false,
+  "prettier.singleQuote": true,
+  "prettier.semi": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  }
+}
