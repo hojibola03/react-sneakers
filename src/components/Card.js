@@ -17,7 +17,6 @@ function Card() {
           </button>
         </div>
       </div>
-
       <div className="card">
         <div className="favorite">
           <img src="/img/heart_unlike.svg" alt="like" />

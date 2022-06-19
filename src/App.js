@@ -19,7 +19,6 @@ function App() {
         </div>
         <Card />
         <Card />
-        <Card />
       </div>
     </div>
   )
